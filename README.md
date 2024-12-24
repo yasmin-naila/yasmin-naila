@@ -41,6 +41,6 @@ PriceWise is a machine learning model using **Random Forest** to recommend compe
 
 ### **🌐 Let’s Connect!**  
 📫 **Email:** yasminnai03@gmail.com  
-💼 **LinkedIn:** [yasmin-naila](https://linkedin.com/in/yasmin-naila)  
+💼 **LinkedIn:** [Yasmin Naila Rachmat](https://linkedin.com/in/yasmin-naila)  
 
 Explore my repositories and let’s connect for collaborations or brainstorming discussions on all things **data**! 🚀  
