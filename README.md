@@ -18,9 +18,9 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
 - **Languages & Tools:** Python (Pandas, NumPy, TensorFlow, Keras), SQL, Tableau, Power BI, Kibana  
 - **Data Engineering:** PostgreSQL, Elasticsearch, Apache Airflow  
 - **Expertise:**  
-  - Data Wrangling, Feature Engineering, EDA  
-  - Machine Learning (Regression, Classification, Ensemble Models)  
-  - Dashboard Development & Data Storytelling  
+  - Data Wrangling, Feature Engineering, EDA
+  - Machine Learning (Regression, Classification, Clustering, Time Series, Deep Learning)  
+  - Dashboard Development & Data Storytelling
 
 ---
 
