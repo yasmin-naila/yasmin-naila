@@ -34,6 +34,9 @@ Built a machine learning model using **XGBoost**, achieving a target recall of *
 #### **3. Nvidia Market Analysis 💻📊**  
 Designed an analytical framework to evaluate **NVIDIA’s customer trends, product performance, and sales**. Applied the **5P’s marketing framework** to recommend strategies for sustainable growth.  
 
+#### **4. PRiceWise 🏠💡**  
+PriceWise is a machine learning model using Random Forest to recommend competitive home prices. It automates data scraping from Rumah123 with Apache Airflow, ensuring accurate and up-to-date insights for sellers and agents.
+
 ---
 
 ### **🌐 Let’s Connect!**  
