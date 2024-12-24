@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I’m **Yasmin Naila!** 👋  
 
-<!--
-**yasmin-naila/yasmin-naila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a **Data Analyst** passionate about uncovering actionable insights, creating impactful visualizations, and solving complex challenges with data-driven strategies. I thrive on turning raw data into clear, meaningful stories that drive decision-making and deliver value across industries.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **👩‍🎓 About Me**  
+🎓 **Education:**  
+- Bachelor’s Degree in Business Administration, **Universitas Indonesia**  
+- Data Science Bootcamp Graduate, **Hacktiv8**  
+
+🤝 **Open to Collaboration:**  
+I’m eager to work on projects involving **data analysis**, **machine learning**, and **dashboard development**, particularly those tackling real-world challenges with innovative solutions.
+
+---
+
+### **💻 Technical Skills**  
+- **Languages & Tools:** Python (Pandas, NumPy, TensorFlow, Keras), SQL, Tableau, Power BI, Kibana  
+- **Data Engineering:** PostgreSQL, Elasticsearch, Apache Airflow  
+- **Expertise:**  
+  - Data Wrangling, Feature Engineering, EDA  
+  - Machine Learning (Regression, Classification, Ensemble Models)  
+  - Dashboard Development & Data Storytelling  
+
+---
+
+### **🚀 Key Projects**  
+#### **1. Top Trending Beauty Products in the U.S. Market 🛍️💄**  
+Developed a dashboard analyzing customer behavior and pricing trends. Recommended three high-potential products for **2025 sales strategies** to optimize market share.  
+
+#### **2. Bank Account Fraud Prediction 💳🔍**  
+Built a machine learning model using **XGBoost**, achieving a target recall of **80%** to detect fraudulent transactions. Leveraged the **Bank Account Fraud (BAF)** dataset to enhance antifraud systems in banking.  
+
+#### **3. Nvidia Market Analysis 💻📊**  
+Designed an analytical framework to evaluate **NVIDIA’s customer trends, product performance, and sales**. Applied the **5P’s marketing framework** to recommend strategies for sustainable growth.  
+
+---
+
+### **🌐 Let’s Connect!**  
+📫 **Email:** yasminnai03@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/yasmin-naila](https://linkedin.com/in/yasmin-naila)  
+
+Explore my repositories and let’s connect for collaborations or brainstorming discussions on all things **data**! 🚀  
