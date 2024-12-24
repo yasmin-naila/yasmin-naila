@@ -25,17 +25,17 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
 ---
 
 ### **🚀 Key Projects**  
-#### **1. Top Trending Beauty Products in the U.S. Market 🛍️💄**  
-Developed a dashboard analyzing competitor trends. Recommended three high-potential products for **2025 sales strategies** to optimize market share.  
+#### **1. PRiceWise 🏠💡**  
+PriceWise is a machine learning model using **Random Forest** to recommend competitive home prices. It automates data scraping from Rumah123.com with **Apache Airflow**, ensuring accurate and up-to-date insights for sellers and agents.
 
 #### **2. Bank Account Fraud Prediction 💳🔍**  
-Built a machine learning model using **XGBoost**, achieving a target recall of **80%** to detect fraudulent transactions. Leveraged the **Bank Account Fraud (BAF)** dataset to enhance anti fraud systems in banking.  
+Built a machine learning model using **XGBoost**, achieving a target recall of **80%** to detect fraudulent transactions. Leveraged the **Bank Account Fraud (BAF)** dataset to enhance anti fraud systems in banking. 
 
-#### **3. Nvidia Market Analysis 💻📊**  
+#### **3. Top Trending Beauty Products in the U.S. Market 🛍️💄**  
+Developed a dashboard analyzing competitor trends. Recommended three high-potential products for **2025 sales strategies** to optimize market share.   
+
+#### **4. Nvidia Market Analysis 💻📊**  
 Designed an analytical framework to evaluate **NVIDIA’s customer trends, product performance, and sales**. Applied the **5P’s marketing framework** to recommend strategies for sustainable growth.  
-
-#### **4. PRiceWise 🏠💡**  
-PriceWise is a machine learning model using **Random Forest** to recommend competitive home prices. It automates data scraping from Rumah123.com with **Apache Airflow**, ensuring accurate and up-to-date insights for sellers and agents.
 
 ---
 
